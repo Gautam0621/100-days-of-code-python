@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 01: June 1, 2023 (Variables)
+### Day 01: June 5, 2023 (Print)
 
 **Today's Progress**: Print, String manipulations, debugging, Input 
 Function, Band name generator
